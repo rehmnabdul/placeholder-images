@@ -1,0 +1,19 @@
+name: placeholder_images
+description: Placeholder for images. You can use the simple method to get a unique image for each user just like Google or Microsoft Teams. The image consists of initials of the user name.
+version: 0.0.1
+homepage: https://github.com/rehmnabdul/placeholder-images
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
